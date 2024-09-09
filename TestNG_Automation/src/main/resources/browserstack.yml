@@ -1,0 +1,11 @@
+userName: abhijeetshinde_Xmkj9R
+accessKey: 254yyfq5ZPptihxYec8p
+framework: testng
+app: bs://sample.app
+platforms:
+  - platformName: android
+    deviceName: Samsung Galaxy S22 Ultra
+    platformVersion: 12.0
+  browserstackLocal: true
+buildName: browserstack-build-1
+projectName: Android_Automation
